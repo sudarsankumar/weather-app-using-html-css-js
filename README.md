@@ -3,7 +3,7 @@ This weather app uses simple html css js and api from weathermap.org to provide 
 
 ## Table Of Contents
 - [Installation](#installation)
-- [Sample Link](#sample-link)
+- [Sample Link](#demo-link)
 - [Credits](#credits)
 
 ## installation
